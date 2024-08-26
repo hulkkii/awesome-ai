@@ -34,4 +34,11 @@
 - **[Amazon Q Developer Guide](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/software-dev.html)**  
   Amazon Q Developer is designed to assist developers by generating code, providing implementation plans, and offering in-depth support for various coding tasks. It works within popular IDEs like Visual Studio Code and JetBrains, integrating directly into the development workflow. Developers can interact with Amazon Q using natural language commands to generate code, debug, refactor, and even optimize existing code. This tool is particularly useful for accelerating development processes, maintaining code quality, and integrating best practices seamlessly into the development cycle.
 
+- **[Cursor](https://www.cursor.com/)**  
+  Cursor.com is a platform that offers an AI-powered code editor designed to enhance productivity and collaboration for developers. It integrates artificial intelligence to assist in writing, refactoring, and debugging code, acting as a pair programmer that can significantly accelerate development processes. The platform aims to provide a seamless coding experience by integrating AI directly into the code editor, making it a valuable tool for teams and individual developers looking to optimize their coding workflows.
+
+- **[Supermaven](https://supermaven.com/)**  
+  Supermaven is an AI-powered code completion tool that aims to enhance developer productivity by providing fast, accurate code suggestions. It features a large context window, allowing it to understand and adapt to the unique structure of a codebase, leading to more relevant and precise code completions. Supermaven integrates seamlessly with popular IDEs like Visual Studio Code and JetBrains, and it's positioned as a powerful alternative to tools like GitHub Copilot, offering superior speed and context awareness.
+
+
 ---
