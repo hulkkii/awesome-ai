@@ -17,6 +17,9 @@
 - **[BigCode Bench](https://bigcode-bench.github.io/)**  
   BigCode Bench is an open-source platform that provides benchmarks for evaluating large language models on code generation tasks. It offers a comprehensive suite of tools to assess model performance across various programming languages and tasks, aiming to improve transparency and reproducibility in AI research.
 
+- **[LMSYS Arena](https://lmarena.ai/)**  
+  LMSYS Chatbot Arena is an open platform designed for the crowdsourced evaluation of large language models (LLMs). It enables users to compare different LLMs through pairwise interactions, contributing to a vast dataset of over 1,000,000 human evaluations. Using the Bradley-Terry model, LMSYS ranks these models on an Elo scale, providing a clear and quantitative assessment of their performance. This platform thrives on community participation, encouraging users to cast their votes and help refine the rankings.
+
 ## AI-Driven Tools for Software Development
 
 - **[Agentless](https://github.com/OpenAutoCoder/Agentless)**  
@@ -40,5 +43,7 @@
 - **[Supermaven](https://supermaven.com/)**  
   Supermaven is an AI-powered code completion tool that aims to enhance developer productivity by providing fast, accurate code suggestions. It features a large context window, allowing it to understand and adapt to the unique structure of a codebase, leading to more relevant and precise code completions. Supermaven integrates seamlessly with popular IDEs like Visual Studio Code and JetBrains, and it's positioned as a powerful alternative to tools like GitHub Copilot, offering superior speed and context awareness.
 
+- **[GitHub Copilot](https://github.com/features/copilot)**  
+  GitHub Copilot is an AI-powered code completion tool developed by GitHub and OpenAI. It assists developers by suggesting entire lines or blocks of code based on the context of the current project. Integrated directly into popular IDEs like Visual Studio Code, Copilot enhances developer productivity by understanding the code context and providing intelligent code suggestions, making it an invaluable tool for both novice and experienced developers.
 
 ---
