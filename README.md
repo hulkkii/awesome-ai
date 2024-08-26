@@ -20,6 +20,15 @@
 - **[LMSYS Chatbot Arena](https://lmarena.ai/)**  
   LMSYS Chatbot Arena is an open platform designed for the crowdsourced evaluation of large language models (LLMs). It enables users to compare different LLMs through pairwise interactions, contributing to a vast dataset of over 1,000,000 human evaluations. Using the Bradley-Terry model, LMSYS ranks these models on an Elo scale, providing a clear and quantitative assessment of their performance. This platform thrives on community participation, encouraging users to cast their votes and help refine the rankings. For a deeper understanding of the methodology, you can refer to the detailed analysis in their accompanying research paper.
 
+- **[LiveBench](https://livebench.ai/?s=09)**  
+  LiveBench is a cutting-edge benchmark platform designed to evaluate large language models (LLMs) with a focus on avoiding test set contamination and ensuring objective scoring. It features monthly releases of new questions derived from recently-released datasets, arXiv papers, news articles, and IMDb movie synopses, minimizing the risk of pre-exposure. Each question comes with verifiable, objective ground-truth answers, allowing for accurate, automated scoring without reliance on an LLM judge. LiveBench currently includes 18 diverse tasks across 6 categories, with plans to introduce even more challenging tasks over time.
+
+- **[Artificial Analysis](https://artificialanalysis.ai/)**  
+  Artificial Analysis provides benchmarking and related information to help people and organizations choose the right model for their specific use cases and decide which provider to use. The platform highlights the trade-offs between different models and providers, including factors such as model quality, price, output speed, latency, context window, and other key dimensions. By focusing on how users intend to utilize the model, Artificial Analysis assists in making informed decisions tailored to their needs.
+
+- **[Salesforce CRM Benchmark](https://www.salesforceairesearch.com/crm-benchmark)**  
+  Salesforce has developed the world's first LLM benchmark specifically for CRM, aimed at assessing the efficacy of generative AI models for business applications. This benchmark evaluates LLMs across sales and service use cases, focusing on accuracy, cost, speed, and trust & safety. What sets this benchmark apart is its reliance on real CRM data and human evaluations conducted by both Salesforce employees and external customers. The benchmark is grounded in real-world datasets from Salesforce and customer operations, providing a rigorous and practical assessment tool for businesses.
+
 ## AI-Driven Tools for Software Development
 
 - **[Agentless](https://github.com/OpenAutoCoder/Agentless)**  
