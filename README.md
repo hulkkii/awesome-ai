@@ -29,6 +29,9 @@
 - **[Salesforce CRM Benchmark](https://www.salesforceairesearch.com/crm-benchmark)**  
   Salesforce has developed the world's first LLM benchmark specifically for CRM, aimed at assessing the efficacy of generative AI models for business applications. This benchmark evaluates LLMs across sales and service use cases, focusing on accuracy, cost, speed, and trust & safety. What sets this benchmark apart is its reliance on real CRM data and human evaluations conducted by both Salesforce employees and external customers. The benchmark is grounded in real-world datasets from Salesforce and customer operations, providing a rigorous and practical assessment tool for businesses.
 
+- **[Berkeley Function Calling Leaderboard V2](https://gorilla.cs.berkeley.edu/leaderboard)**  
+  The Berkeley Function Calling Leaderboard (BFCL) V2 evaluates large language models (LLMs) on their ability to accurately call functions or tools. The leaderboard ranks models based on overall accuracy, latency, and cost. It includes detailed metrics such as Abstract Syntax Tree (AST) evaluation, execution of APIs, and irrelevance detection. The leaderboard also features interactive visualizations like a comparison chart and error type analysis, providing a comprehensive overview of LLM performance in function calling tasks.
+
 ## AI-Driven Tools for Software Development
 
 - **[Agentless](https://github.com/OpenAutoCoder/Agentless)**  
