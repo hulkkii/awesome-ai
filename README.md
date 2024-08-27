@@ -32,6 +32,9 @@
 - **[Berkeley Function Calling Leaderboard V2](https://gorilla.cs.berkeley.edu/leaderboard)**  
   The Berkeley Function Calling Leaderboard (BFCL) V2 evaluates large language models (LLMs) on their ability to accurately call functions or tools. The leaderboard ranks models based on overall accuracy, latency, and cost. It includes detailed metrics such as Abstract Syntax Tree (AST) evaluation, execution of APIs, and irrelevance detection. The leaderboard also features interactive visualizations like a comparison chart and error type analysis, providing a comprehensive overview of LLM performance in function calling tasks.
 
+- **[Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/)**  
+  Aider LLM Leaderboards evaluate large language models (LLMs) on their code editing and refactoring capabilities. It assesses how well models follow system prompts to edit code, providing performance metrics like task completion rates and adherence to edit formats. The platform highlights which models are most effective for code-related tasks, offering valuable insights into their capabilities in real-world coding scenarios.
+
 ## AI-Driven Tools for Software Development
 
 - **[Agentless](https://github.com/OpenAutoCoder/Agentless)**  
